@@ -25,7 +25,6 @@ Também desenvolvo projetos acadêmicos relacionados a **MCDM, BWM, THOR2, lógi
             src="https://custom-icon-badges.demolab.com/github/followers/Rhenan01?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <!-- Substitua SEU-LINKEDIN pelo link do seu perfil -->
     <a href="https://www.linkedin.com/in/rhenan-silva/">
         <img 
             alt="LinkedIn"
@@ -187,19 +186,15 @@ Também desenvolvo projetos acadêmicos relacionados a **MCDM, BWM, THOR2, lógi
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-      align="left" 
-      alt="Estatísticas do GitHub" 
-      height="200" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api?username=Rhenan01&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+<p align="left">
+  <img
+    alt="Estatísticas do GitHub"
+    width="55%"
+    src="https://rhenan-github-stats.vercel.app/api?username=Rhenan01&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
-
-  <img 
-      align="left" 
-      alt="Linguagens mais utilizadas" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhenan01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  <img
+    alt="Linguagens mais utilizadas"
+    width="40%"
+    src="https://rhenan-github-stats.vercel.app/api/top-langs?username=Rhenan01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
